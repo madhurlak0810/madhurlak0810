@@ -22,5 +22,3 @@ MS in Applied Machine Learning from the University of Maryland, building agentic
 ### Find me
 - Portfolio: https://madhurlak0810.github.io/Maddy_Portfolio/
 - LinkedIn: https://www.linkedin.com/in/madhurlak/
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhurlak0810&show_icons=true&hide_title=true)
