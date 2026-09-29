@@ -15,4 +15,4 @@ Python · PyTorch · LangChain/LangGraph · FastAPI · SQL/PostgreSQL · AWS · 
 - Portfolio: https://madhurlak0810.github.io/Maddy_Portfolio/
 - LinkedIn: https://www.linkedin.com/in/madhurlak/
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhurlak0810&show_icons=true&hide_title=true)
+
