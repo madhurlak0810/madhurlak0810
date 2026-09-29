@@ -16,8 +16,6 @@ MS in Applied Machine Learning from the University of Maryland, building agentic
 - **SEC-edgar** — a financial analytics platform mining SEC 10-K filings; built the MongoDB data pipeline, OpenAI-based filing summarization, and GitHub Pages deployment.
 - **drone_exploration** — an autonomous exploration system combining Q-learning and SLAM, reaching 94.7% environment coverage at <1% collision rate, shipped as a public Docker image.
 
-### Causify AI
-During my ML Engineer internship at Causify AI (Jul–Sep 2025), I opened 9 PRs to their `helpers` and `tutorials` repos — test-coverage improvements, unit-test framework documentation, and a LangChain-based schema-parsing agent for their AutoEDA platform.
 
 ### Find me
 - Portfolio: https://madhurlak0810.github.io/Maddy_Portfolio/
