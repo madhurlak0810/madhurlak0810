@@ -2,7 +2,7 @@
 
 ML engineer with an MS in Applied Machine Learning from the University of Maryland. I build agentic systems, retrieval pipelines, and the production infrastructure that runs them. Previously at Thomson Reuters and Causify AI.
 
-**Open to ML Engineer / ML Infrastructure roles — US or remote.**
+**Open to ML Engineer / ML Infrastructure roles — US or remote.** · [**View my portfolio →**](https://madhurlak0810.github.io/Maddy_Portfolio/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -15,7 +15,7 @@ ML engineer with an MS in Applied Machine Learning from the University of Maryla
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### What I'm building
-- **[PersonalOS](https://github.com/madhurlak0810/PersonalOS)** — a local-first, multi-agent job-search assistant orchestrated with LangGraph. The LLM proposes actions and a policy-gated tool layer decides what runs, on an event-driven backend with an MCP framework of 4 custom tools and 15 passing unit tests (FastAPI, SQLAlchemy, Celery, Redis).
+- **[PersonalOS](https://github.com/madhurlak0810/PersonalOS)** — a local-first, multi-agent job-search assistant orchestrated with LangGraph. The LLM only proposes tool intents: a default-deny policy engine authorizes them, a human approves anything that writes externally, and an isolated executor runs each action exactly once with a full audit trail. PostgreSQL checkpoints for crash-safe resume, MCP servers for jobs and files, and 600+ tests (FastAPI, SQLAlchemy, pgvector).
 
 ### Projects
 - **[Custom-Research](https://github.com/madhurlak0810/Custom-Research)** — a serverless RAG pipeline on AWS: ingests arXiv papers, embeds them with 1024-dim Amazon Titan vectors, and serves semantic search + LLM chat over Aurora PostgreSQL/pgvector. Ingestion, retrieval, and inference run as independent Lambda services, all deployed via AWS CDK.
